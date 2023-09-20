@@ -2,6 +2,9 @@
 
 ### _The work in this repository has been replicated from a recent DevOps interview [technical challenge](CHALLENGE.md), with some details being removed or anonymised._
 
+[![CI Status](https://github.com/markwcodes/laravel-microservice-base/actions/workflows/ci.yml/badge.svg)](https://github.com/markwcodes/laravel-microservice-base/actions)
+[![Build Status](https://github.com/markwcodes/laravel-microservice-base/actions/workflows/build.yml/badge.svg)](https://github.com/markwcodes/laravel-microservice-base/actions)
+
 ## Overview
 
 This repository serves as a starting point for Laravel microservices at ACME Corp, including pre-configured Continuous Integration and Continuous Deployment (CI/CD) pipelines for testing and building applications. It's designed to streamline the development process and ensure code quality through automated testing and build steps.
