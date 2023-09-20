@@ -189,4 +189,9 @@ return [
     'version' => json_decode(file_get_contents(base_path('manifest.json')))?->version,
 
     'description' => json_decode(file_get_contents(base_path('manifest.json')))?->description,
+
+    # Run-time system environment variables
+    'build' => env('BUILD_VERSION', 0),
+
+    'commit' => env('COMMIT_HASH'),
 ];
