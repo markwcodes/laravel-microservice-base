@@ -1,6 +1,6 @@
-# Laravel Microservice Base
-
 ### _The work in this repository has been replicated from a recent DevOps interview [technical challenge](CHALLENGE.md), with some details being removed or anonymised._
+
+# Laravel Microservice Base
 
 [![CI Status](https://github.com/markwcodes/laravel-microservice-base/actions/workflows/ci.yml/badge.svg)](https://github.com/markwcodes/laravel-microservice-base/actions)
 [![Build Status](https://github.com/markwcodes/laravel-microservice-base/actions/workflows/build.yml/badge.svg)](https://github.com/markwcodes/laravel-microservice-base/actions)
