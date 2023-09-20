@@ -59,6 +59,8 @@ docker run --publish 80:80 --env-file .env ghcr.io/markwcodes/laravel-microservi
 
 You can then navigate to [localhost](http://localhost/) and the [status endpoint](http://localhost/status) endpoints:
 
+![image](https://github.com/markwcodes/laravel-microservice-base/assets/7064464/4142ea1b-d77c-4020-875c-edbafa6a8bb1)
+
 ## Continuous Integration and Continuous Deployment (CI/CD) Pipelines
 
 The repository includes pre-configured CI/CD pipelines in GitHub Actions for automated testing and building.
