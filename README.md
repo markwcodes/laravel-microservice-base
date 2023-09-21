@@ -1,6 +1,6 @@
-### _The work in this repository has been replicated from a recent DevOps interview [technical challenge](CHALLENGE.md), with some details being removed or anonymised._
+#### _This repository replicates a recent DevOps interview [technical challenge](CHALLENGE.md), with some details removed or anonymised._
 
-# Laravel Microservice Base
+# Laravel Microservice Template
 
 [![CI Status](https://github.com/markwcodes/laravel-microservice-base/actions/workflows/ci.yml/badge.svg)](https://github.com/markwcodes/laravel-microservice-base/actions)
 [![Build Status](https://github.com/markwcodes/laravel-microservice-base/actions/workflows/build.yml/badge.svg)](https://github.com/markwcodes/laravel-microservice-base/actions)
@@ -76,7 +76,7 @@ If all tests pass, the workflow builds, tags and pushes the build to the reposit
 Commits in all branches in the repository are continuously unit tested by the CI workflow.
 
 ### Configuration
-CI/CD pipelines are defined in the `.github/workflows` directory. You can customize these workflows to fit your project's specific needs.
+CI/CD pipelines are defined in the `.github/workflows` directory. You can customise these workflows to fit your project's specific needs.
 
 # Future considerations:
 
